@@ -135,6 +135,7 @@ del PCSettingsCustom.cnf /f /q
 del PCSettingsCustom-Done.cnf /f /q
 del 2ndSegment.txt /f /q
 del 4thSegment.txt /f /q
+type nul > 2ndSegment.txt
 cls
 echo.
 echo.
